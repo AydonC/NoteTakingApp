@@ -1,0 +1,11 @@
+C:\Users\Aydon\source\repos\NoteTakingApp\bin\Debug\NoteTakingApp.exe.config
+C:\Users\Aydon\source\repos\NoteTakingApp\bin\Debug\NoteTakingApp.exe
+C:\Users\Aydon\source\repos\NoteTakingApp\bin\Debug\NoteTakingApp.pdb
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.AssemblyReference.cache
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.Properties.Resources.resources
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.GenerateResource.cache
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.csproj.CoreCompileInputs.cache
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.exe
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.pdb
+C:\Users\Aydon\source\repos\NoteTakingApp\obj\Debug\NoteTakingApp.NoteApp.resources
